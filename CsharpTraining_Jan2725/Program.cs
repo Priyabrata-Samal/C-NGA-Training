@@ -434,15 +434,15 @@ using CsharpTraining_Jan2725;
 
 //_____________________________________________________________________________________________
 
-Console.WriteLine("Program Started");
-Console.WriteLine("Enetr the size of the array");
-int size = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[size];
+// Console.WriteLine("Program Started");
+// Console.WriteLine("Enetr the size of the array");
+// int size = Convert.ToInt32(Console.ReadLine());
+// int[] array = new int[size];
 
-Console.WriteLine("enter the array elemnts");
-for(int i = 0; i < array.Length; i++)
-{
-    array[i] = Convert.ToInt32(Console.ReadLine());
-}
-CountLeaders.CountLead(array);
-Console.WriteLine("Program eneded");
+// Console.WriteLine("enter the array elemnts");
+// for(int i = 0; i < array.Length; i++)
+// {
+//     array[i] = Convert.ToInt32(Console.ReadLine());
+// }
+// CountLeaders.CountLead(array);
+// Console.WriteLine("Program eneded");
