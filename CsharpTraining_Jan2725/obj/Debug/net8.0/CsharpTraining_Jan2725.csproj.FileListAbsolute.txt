@@ -1,0 +1,14 @@
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\bin\Debug\net8.0\CsharpTraining_Jan2725.exe
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\bin\Debug\net8.0\CsharpTraining_Jan2725.deps.json
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\bin\Debug\net8.0\CsharpTraining_Jan2725.runtimeconfig.json
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\bin\Debug\net8.0\CsharpTraining_Jan2725.dll
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\bin\Debug\net8.0\CsharpTraining_Jan2725.pdb
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\CsharpTraining_Jan2725.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\CsharpTraining_Jan2725.AssemblyInfoInputs.cache
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\CsharpTraining_Jan2725.AssemblyInfo.cs
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\CsharpTraining_Jan2725.csproj.CoreCompileInputs.cache
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\CsharpTraining_Jan2725.dll
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\refint\CsharpTraining_Jan2725.dll
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\CsharpTraining_Jan2725.pdb
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\CsharpTraining_Jan2725.genruntimeconfig.cache
+C:\Users\SSD\source\repos\CsharpTraining_Jan2725\CsharpTraining_Jan2725\obj\Debug\net8.0\ref\CsharpTraining_Jan2725.dll
